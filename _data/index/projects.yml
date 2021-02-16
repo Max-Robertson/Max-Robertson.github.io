@@ -11,7 +11,7 @@
 - name: Maxablancas
   i18n: cpython
   url: https://Youtube.com/c/Maxablancas
-  img: /static/assets/img/landing/image1.png
+  img: /static/assets/img/landing/image1.jpg
   desc: My youtube channel where I would post various videos about aspects of games I was passionate about or upload music/film edits.
 
 - name: Github
