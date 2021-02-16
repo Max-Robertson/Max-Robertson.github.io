@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: NCR
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I currently work in the AOC (Applications Operation Center) team at NCR. As a team we are responsible for monitoring alerts that come from a variety of NCRs products and services. These alerts can vary from a banks Online Banking service being down to disk space on a box starting to fill up. The AOC respond to these alerts, triaging the issue, fixing it when possible and engage the appropriate resources when not. The AOC can be contacted if a service needs restarted, or a command needs run on a box etc as they have the required access. In a nutshell the AOCs main responsibility is to make sure NCRs product and services remain operational. In my  time with NCR I have  learned a lot. Specifically my ability to work in a team has grown dramatically, with a heavy emphasis on making sure the AOC works closely together and keep the work load balanced for all individuals. By far the area in which I think I've grown the most within this role is the ability to operate under high pressure situations, due to the reactive nature of this role the environment can go from being calm to hectic in a matter of minutes so it's important to keep a level head and ensure the situation is handled in the best way possible to minimize downtime, I believe I have demonstrated this ability on multiple occasions and continue to grow and learn within my role. In addition to the above I have also had free reign to work on my own projects, this has consisted so far of me building python scripts to perform certain tasks that previously required human input. The biggest project I’ve had at NCR involved me addressing a gap in our monitoring system and developing a series of scripts that addressed this issue.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Dev Ops Engineer I
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Edinburgh Napier University
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: The purpose of this internship was to investigate the features of the new version of CAINE and how can be utilised for forensic investigations using latest operating systems. Later in the internship I developed a script to shrink the size of a file that was to be distributed to a class for future use in the module. This internship gave me an opportunity to develop my technical skills outside of the classroom, allowing me to get an insight of what it is like to work in the professional environment with a deadline. Having to think outside the box and overcome obstacles when developing the script grew my competence and confidence in development.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018 - Aug. 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Digital Forensics Development Internship
     i18n: company_b_job
   icon: fa-plus-square
