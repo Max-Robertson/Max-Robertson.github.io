@@ -17,5 +17,5 @@
 - name: Github
   i18n: google
   url: https://github.com/Max-Robertson
-  img: /static/assets/img/landing/git.png
+  img: /static/assets/img/landing/git.1.3.png
   desc: My Github where you can look at all the coding projects I've done.
