@@ -14,20 +14,19 @@ author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Max  # Be used at index page about me section.
   last_name: Robertson  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Avatar.png  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar2.jpeg  # upload your avatar at directory and edit it.
   github_username: Max-Robertson  # Leave blank if you don't have now
   linkedin_id: max-robertson-47bbb8139 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username: maxablancas  # Leave blank if you don't have now
-  email: maxrobertson117@gmail.com  # Leave blank if you don't have now
-  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+    # Leave blank if you don't have now
+  playstation_username: ThePretender1251
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-gamepad
+    - name: fas fa-ticket-alt
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-music
+    - name: fa-pen
   desc: I have a passion for ideas, video games and the potential they hold as a creative medium. This website showcases my current skill set and tracks current projects I'm working on.   # Describe yourself.
 
 # comment

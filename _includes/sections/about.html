@@ -12,7 +12,7 @@
         <div class="col-xs-2 wow fadeInLeft">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fas {{ icon.name }}"></i>
                 </div>
             </div>
         </div>
@@ -35,10 +35,10 @@
                     {% if site.author.twitter_username %}
                     <li><a href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
                     {% endif %}
-                    {% if site.author.email %}
-                    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
+                    {% if site.author.playstation_username %}
+                    <li><a href="https://psnprofiles.com/ThePretender1251{{ site.author.playstation_username }}" target="blank"><i class="fab fa-playstation"></i></a></li>
                     {% endif %}
-                    <li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
+                    <li><a href="http://live.xbox.com/Profile?Gamertag=TH3PR3T3IVDER" target="blank"><i class="fab fa-xbox"></i></a></li>
                     {% if site.author.cv %}
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
@@ -50,7 +50,7 @@
         <div class="col-xs-2 wow fadeInRight">
             <div class="team-member">
                 <div class="vote-icon" style="text-align: center">
-                    <i class="fa {{ icon.name }}"></i>
+                    <i class="fas {{ icon.name }}"></i>
                 </div>
             </div>
         </div>
