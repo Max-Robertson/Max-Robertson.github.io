@@ -2,8 +2,8 @@
 
 # Website settings
 title: Maxablancas
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+description: Max's blog.
+keywords: Max,Maxablancas,blog,Jekyll,github,gh-pages
 #baseurl:  /Maxr # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://Max-Robertson.github.io/Maxablancas  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Max  # Be used at index page about me section.
   last_name: Robertson  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar2.jpeg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/smallblob.jpeg  # upload your avatar at directory and edit it.
   github_username: Max-Robertson  # Leave blank if you don't have now
   linkedin_id: max-robertson-47bbb8139 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-music
     - name: fa-pen
-  desc: I have a passion for ideas, video games and the potential they hold as a creative medium. This website showcases my current skill set and tracks current projects I'm working on.   # Describe yourself.
+  desc: I have a passion for ideas, video games and the potential they hold as a creative medium. This website showcases my current skill set and tracks current projects I'm working on. Check out my Dev Diary where I'm posting updates on my journey to learn Game Design + Development.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
