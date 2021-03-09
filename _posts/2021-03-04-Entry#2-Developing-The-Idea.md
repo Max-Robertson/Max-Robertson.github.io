@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Entry #2: Developing The Idea"
-date:   2021-03-03
+date:   2021-03-04
 desc: "Taking the idea for the game and fleshing it out further"
 keywords: "Games,Ideas,Creativity"
 categories: [Idea]
