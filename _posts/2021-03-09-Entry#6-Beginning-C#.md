@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Entry #4: Planning Development"
-date:   2021-03-06
-desc: "Planning the Development of the game"
+title:  "Entry #6: Beginning C# Lessons"
+date:   2021-03-09
+desc: "Beginning to teach myself the fundamentals of the C# programming language"
 keywords: "Games,Ideas,Creativity"
-categories: [Planning]
-tags: [Maxablancas, Planning]
+categories: [Education]
+tags: [Maxablancas, Education]
 icon: fa-gamepad
 ---
 
