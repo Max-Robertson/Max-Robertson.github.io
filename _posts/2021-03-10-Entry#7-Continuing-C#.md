@@ -10,8 +10,8 @@ icon: fa-gamepad
 ---
 
 
-Hi :p ,
+Hi,
 
-Now that I had everything to set up and learned the very basics I continued doing this section. Today I covered: Arrays, Lists, Enum and Variable Attributes. Ive also started keeping a log book where I make notes on my understanding of the course and add notes for future reference etc. 
+Now that I had everything to set up and learned the very basics I continued doing this section. Today I covered: Arrays, Lists, Enum and Variable Attributes. Ive also started keeping a log book where I make notes on my understanding of the course and add notes for future reference etc.
 
 Max :)  

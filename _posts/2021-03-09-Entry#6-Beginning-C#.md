@@ -10,7 +10,7 @@ icon: fa-gamepad
 ---
 
 
-Hi :p ,
+Hi,
 
 Now thats I have done the basics of Unity it's time to move onto the next section "Learn C# with Unity" This covers the basics of the C# sharp language fundamentals and how you would use the language within Unity. Today I did the first part of this section which covered setting up the IDE, linking with Unity etc as well as the basics of syntax and variable definition.
 

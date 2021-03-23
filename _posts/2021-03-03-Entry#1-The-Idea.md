@@ -10,7 +10,7 @@ icon: fa-gamepad
 ---
 
 
-Hi :p ,
+Hi,
 
 So going into this project I had some ideas that had been floating around my head for a while, I now need to choose one and start fleshing it out so I could Design and Develop a game around it. I spent the start of the day going through some of my many Iphone Notepad files, Google docs etc where I jot down some of my ideas. I settled on an idea and fleshed it out this is what I have:  
 

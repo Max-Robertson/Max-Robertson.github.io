@@ -10,7 +10,7 @@ icon: fa-gamepad
 ---
 
 
-Hi :p ,
+Hi,
 
 Now that the idea for the game has been established I wanted to think about what this would actually look like as a game. This is what I came up with:
 
